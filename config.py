@@ -13,8 +13,8 @@ class Config(object):
     HTTP_PROXY = os.environ.get("HTTP_PROXY", "")
     UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "")
     MAX_MESSAGE_LENGTH = 4096
-    PROCESS_MAX_TIMEOUT = int(os.environ.get("TIME_LIMIT", "")
-                              ADL_BOT_RQ = {}
-                              DEF_WATER_MARK_FILE = ""
-                              DB_URI = os.environ.get("DATABASE_URL", "")
+    PROCESS_MAX_TIMEOUT = int(os.environ.get("TIME_LIMIT", ""))
+    ADL_BOT_RQ = {}
+    DEF_WATER_MARK_FILE = ""
+    DB_URI = os.environ.get("DATABASE_URL", "")
     
