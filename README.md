@@ -6,9 +6,8 @@ A simple YouTube downloader bot with permenent thumbnail support
 Scrapped some code from @SpEcHIDe's AnyDLBot Repository
 Please fork this repository don't import code
 Made with Python3
-(C) @Naviya2
 Copyright permission under GNU General Public License v3.0
-License -> https://github.com/Naviya2/LeoYouTubeDownloader/blob/main/LICENSE
+
 ```
 
 ### Deploy 
