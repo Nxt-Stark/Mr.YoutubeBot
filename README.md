@@ -1,6 +1,5 @@
-# Leo YouTube-Downloader
-<p align="center">
-  <img src="https://telegra.ph/file/0ed2a9164d62752f25aee.jpg"></p>
+#  YouTube-Downloader
+
 A simple YouTube downloader bot with permenent thumbnail support
 
 ```
@@ -43,10 +42,6 @@ python3 bot.py
 
 `pip3 install -r requirements.txt`
 
-### Accounts
-
-* [GitHub](https://github.com/Naviya2)
-* [Telegram](https://telegram.me/naviya2)
 
 ### Credits
 
